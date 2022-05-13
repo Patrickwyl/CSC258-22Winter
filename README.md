@@ -1,6 +1,5 @@
-# CSC258-22-Winter
-# CSC343-20winter
-school work of CSC343H1 S(winter) Introduction to Databases\
+# CSC258-22Winter
+school work of CSC258H1 S(winter) Computer Organization\
 https://fas.calendar.utoronto.ca/course/csc258h1
 ## Course Description
 Computer structures, machine languages, instruction execution, addressing techniques, and digital representation of data. Computer system organization, memory storage devices, and microprogramming. Block diagram circuit realizations of memory, control and arithmetic functions. There are a number of laboratory periods in which students conduct experiments with digital logic circuits.
